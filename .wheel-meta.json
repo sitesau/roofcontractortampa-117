@@ -1,0 +1,22 @@
+{
+  "wheel_id": 823,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-117",
+  "project": "roof-repair-tampa-seasonal-timing-f397da0760a220866207c718aa53d",
+  "parent_t1_ref": "roofcontractortampa-158",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa seasonal timing",
+  "intended_url": "https://sites-e470-2.web.app/roof-repair-tampa-seasonal-timing-f397da0760a220866207c718aa53d/",
+  "tier": "T2",
+  "writeback_nonce": "3ae1676428f83ee9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roof-repair-tampa-warranty-64cd308cbd73b1510f1b1395368a5a2c60c0/",
+      "anchor": "this roof repair tampa warranty guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
